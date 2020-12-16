@@ -82,7 +82,7 @@ stored as orc tblproperties ("orc.compress"="LZO");
 >
 > 使用hive命令登录不行，应该是权限的问题，因为hive在hdfs上储存数据的文件夹的所有者是hive用户，而我们的是root用户。而我们在使用beeline登录时，采用的用户名是hive就能正常运行。
 
-
+​	
 
 #### 将数据从hdfs导入hive—只测试静态分区
 
