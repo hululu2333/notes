@@ -33,3 +33,4 @@ Dataset data = dataOrig.filter((FilterFunction<Row>) row -> !(row.get(0)==null))
 > map算子是输入一个，输出一个。flatMap算子是输入一个，输出0或多个。
 >
 > 直接用lambda比较难理解，建议先实现匿名内部类，理解好逻辑后再转换为lambda表达式
+

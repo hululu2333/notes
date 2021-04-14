@@ -28,7 +28,7 @@ Class.forName("com.mysql.jdbc.Driver");
  * Connection是接口，DriverManager.getConnection返回的是JDBC4Connection型的对象
  * conn中包含了socket对象，是JVM所在主机和数据库所在主机之间的通道。创建连接是个比较耗时的过程
  */
-Connection conn = DriverManager.getConnetcion("jdbc:mysql://localhost:3306/bd2005",
+Connection conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/bd2005",
                     "root","1008");
 ```
 
