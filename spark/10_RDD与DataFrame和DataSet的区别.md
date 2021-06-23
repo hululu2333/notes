@@ -27,6 +27,8 @@
 > 在DataSet中增加了编解码器，当需要访问非堆上的数据时可以避免反序列化整个对象，提高了效率。
 >
 > DataSet是强类型的，可以避免Dataframe因为在编译期缺少类型安全检查，导致运行时出错.
+>
+> 但实际上，在Scala API 中，`DataFrame`只是类型别名`Dataset[Row]`。在Java的API中，用户需要使用`Dataset<Row>`来表示`DataFrame`。
 
 
 
