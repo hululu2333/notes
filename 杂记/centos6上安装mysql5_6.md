@@ -4,7 +4,7 @@
 >
 > mysql8用起来有点问题，然后我又去下了5.6版本的
 
-<img src="C:\Users\hu\AppData\Roaming\Typora\typora-user-images\image-20201119122042883.png" alt="image-20201119122042883" style="zoom: 80%;" />
+<img src="F:\学习笔记\rootImages\image-20201119122042883.png" alt="image-20201119122042883" style="zoom: 80%;" />
 
 
 

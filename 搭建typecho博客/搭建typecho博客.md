@@ -48,7 +48,7 @@
 
 > 将安装包上传到宝塔面板中我们网站的根目录
 
-![image-20201018190523087](C:\Users\hu\AppData\Roaming\Typora\typora-user-images\image-20201018190523087.png)
+![image-20201018190523087](F:\学习笔记\rootImages\image-20201018190523087.png)
 
 > 解压压缩包，并将解压缩后的文件夹中的文件全都复制到网站根目录
 
@@ -64,13 +64,13 @@
 
 > 初始化配置时，会显示无法连接至数据库。因为这时的默认数据库名错了，我们把他改为www_hujiaxiang_x
 
-![image-20201018195435608](C:\Users\hu\AppData\Roaming\Typora\typora-user-images\image-20201018195435608.png)
+![image-20201018195435608](F:\学习笔记\rootImages\image-20201018195435608.png)
 
 
 
 #### 安装完成
 
-![image-20201018195518790](C:\Users\hu\AppData\Roaming\Typora\typora-user-images\image-20201018195518790.png)
+![image-20201018195518790](F:\学习笔记\rootImages\image-20201018195518790.png)
 
 
 
@@ -80,5 +80,5 @@ http://docs.typecho.org/doku.php
 
 或者点击进入后台按钮
 
-![image-20201018203607959](C:\Users\hu\AppData\Roaming\Typora\typora-user-images\image-20201018203607959.png)
+![image-20201018203607959](F:\学习笔记\rootImages\image-20201018203607959.png)
 
