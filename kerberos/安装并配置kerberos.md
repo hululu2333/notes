@@ -3,6 +3,8 @@
 > 以下是在CDH6.3.2中对Kerberos进行安装和配置
 >
 > 参考：https://blog.csdn.net/ytp552200ytp/article/details/109643832
+>
+> https://www.bilibili.com/video/BV1pV411k7ut?p=4（视频，比较全）
 
 > 目前进展到初始化KDC数据库（初始化KDC数据库的命令找不到）
 

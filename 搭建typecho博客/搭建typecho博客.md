@@ -2,7 +2,7 @@
 
 ***
 
-#### 安装宝塔面板
+#### 安装宝塔面板-（文章末尾有搭建wordpress博客的教程）
 
 > 云服务器：华为云
 >
@@ -13,6 +13,10 @@
 > 安装完成之后的结果如下，在华为云的安全组中放行8888端口，然后在浏览器中使用外网面板地址登录
 >
 > http://114.116.250.197:8888/abb235cd
+>
+> 用户名：pxpzsser
+>
+> 密码：admin
 
 <img src="F:\学习笔记\搭建typecho博客\imgs\image-20201017230538662.png" alt="image-20201017230538662" style="zoom: 80%;" />
 
@@ -82,3 +86,10 @@ http://docs.typecho.org/doku.php
 
 ![image-20201018203607959](F:\学习笔记\rootImages\image-20201018203607959.png)
 
+
+
+
+
+宝塔面板搭建wordpress博客
+
+https://zhuanlan.zhihu.com/p/145116769
